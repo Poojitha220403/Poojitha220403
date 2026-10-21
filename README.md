@@ -38,6 +38,7 @@ I build data pipelines and cloud systems: Spark jobs that process millions of re
 <details>
 <summary><b>More projects</b></summary>
 
+- [location-privacy-planar-isotropic-mechanism](https://github.com/Poojitha220403/location-privacy-planar-isotropic-mechanism): differentially private location release (CCS 2015 paper); 17–45% less error than Laplace at equal ε
 - [spark-streaming-ride-sharing-analytics](https://github.com/Poojitha220403/spark-streaming-ride-sharing-analytics): Structured Streaming with watermarked sliding windows
 - [spark-streaming-mllib-fare-prediction](https://github.com/Poojitha220403/spark-streaming-mllib-fare-prediction): real-time MLlib scoring on a live feed
 - [spark-music-streaming-analysis](https://github.com/Poojitha220403/spark-music-streaming-analysis): PySpark joins and window functions on listening logs
