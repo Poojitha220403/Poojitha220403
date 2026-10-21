@@ -58,4 +58,5 @@ I build data pipelines and cloud systems: Spark jobs that process millions of re
 
 ### 📫 Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poojitha%20Jayareddygari-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojitha-jayareddygari-b85112214/)
 [![Email](https://img.shields.io/badge/Email-poojithajayareddygari%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:poojithajayareddygari@gmail.com)
