@@ -24,6 +24,8 @@ I build data pipelines and cloud systems: Spark jobs that process millions of re
 
 ### 🚀 Featured projects
 
+✅ Every featured project has an automated test suite (pytest / Jest) running on **GitHub Actions CI**: Spark pipelines tested end to end, AWS Glue and Lambda tested locally, MySQL tested in a service container.
+
 | Project | What it does | Stack |
 |---|---|---|
 | ✈️ [**US Flight Delay & Cancellation Analysis**](https://github.com/Poojitha220403/US-Flight-Delay-and-Cancellation) | End-to-end Spark pipeline over **2.9M flights**: Parquet ETL, Spark SQL, MLlib delay prediction (**ROC-AUC 0.93**) and Structured Streaming live predictions | PySpark · MLlib · Structured Streaming |
