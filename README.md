@@ -24,7 +24,7 @@ I build data pipelines and cloud systems: Spark jobs that process millions of re
 
 ### 🚀 Featured projects
 
-✅ Every featured project has an automated test suite (pytest / Jest) running on **GitHub Actions CI**: Spark pipelines tested end to end, AWS Glue and Lambda tested locally, MySQL tested in a service container.
+✅ Most featured projects have an automated test suite (pytest / Jest) running on **GitHub Actions CI**: Spark pipelines tested end to end, AWS Glue and Lambda tested locally, MySQL tested in a service container. Tests for the remaining repos are being added.
 
 | Project | What it does | Stack |
 |---|---|---|
