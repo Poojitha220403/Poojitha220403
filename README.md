@@ -38,6 +38,7 @@ I build data pipelines and cloud systems: Spark jobs that process millions of re
 <details>
 <summary><b>More projects</b></summary>
 
+- [cms-hospital-quality-pipeline](https://github.com/Poojitha220403/cms-hospital-quality-pipeline): incremental ingestion of public CMS hospital data, dbt + DuckDB models with 44 data tests, a monthly GitHub Actions refresh and a Streamlit dashboard; finds that 83% of scored hospitals have excess readmissions and that worse patient experience goes with higher readmission ratios
 - [location-privacy-planar-isotropic-mechanism](https://github.com/Poojitha220403/location-privacy-planar-isotropic-mechanism): differentially private location release (CCS 2015 paper); 17–45% less error than Laplace at equal ε
 - [spark-streaming-ride-sharing-analytics](https://github.com/Poojitha220403/spark-streaming-ride-sharing-analytics): Structured Streaming with watermarked sliding windows
 - [spark-streaming-mllib-fare-prediction](https://github.com/Poojitha220403/spark-streaming-mllib-fare-prediction): real-time MLlib scoring on a live feed
